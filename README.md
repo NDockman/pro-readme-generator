@@ -1,27 +1,30 @@
-# portfolio generator
-[![License: GNU](https://img.shields.io/badge/License-GNU-yellowgreen.svg)](https://opensource.org/license/gpl-3-0/)
+# jdklsa
+[![License: Apache](https://img.shields.io/badge/License-Apache-red.svg)](https://opensource.org/license/apache-2-0/)
 ## Description
-this project will generate portfolios
+dsklaf
 
 ## Table of Contents
-toc
+djskla
 
 ## Installation
-just do it
+fjdksla
 
 ## Usage
-make good portfolio
+jfkds
 
 ## License
-This application is covered under the GNU license.
+This application is covered under the Apache license.
+[Apache License Link](https://opensource.org/license/apache-2-0/)
 
 ## Contributing
-please
+klds
 
 ## Tests
-yes
+jkl
 
 ## Questions
-no
+Link to my GitHub profile: [](https://github.com/NDockman)
+Additional questions can be submitted to: fldks
+ksla
     
   

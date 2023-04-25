@@ -1,6 +1,5 @@
 
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+//returns a license badge based on which license is passed in
 function renderLicenseBadge(license) {
   if (license === "MIT"){
     return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
@@ -13,13 +12,9 @@ function renderLicenseBadge(license) {
   if (license === "GNU"){
     return `[![License: GNU](https://img.shields.io/badge/License-GNU-yellowgreen.svg)](https://opensource.org/license/gpl-3-0/)`
   }
-
-  //render the badge near the top of the readme
-
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+//returns the license link
 function renderLicenseLink(license) {
   if (license === "MIT"){
     return `[MIT License Link](https://opensource.org/licenses/MIT)`
@@ -34,13 +29,8 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {
-  renderLicenseLink();
-}
 
-// TODO: Create a function to generate markdown for README
+//generates markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
@@ -58,6 +48,7 @@ ${data.usage}
 
 ## License
 This application is covered under the ${data.license} license.
+${renderLicenseLink(data.license)}
 
 ## Contributing
 ${data.contribution}

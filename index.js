@@ -59,24 +59,14 @@ inquirer
     .then(data => {
         const markdownContent = generateMarkdown(data);
 
-        writeToFile("README.md", markdownContent);           //do this in another .then block??
+        writeToFile("README.md", markdownContent);
     });
 
 var questionsIndex = 0;
 
-// TODO: Create a function to write README file
+//writes README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) =>
         err ? console.log(err) : console.log('Successfully created README.md file')
     );
 }
-
-
-
-// TODO: Create a function to initialize app
-function init() {
-    
-}
-
-// Function call to initialize app
-init();
