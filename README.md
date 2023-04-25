@@ -1,19 +1,27 @@
-# title of project
+# portfolio generator
+[![License: GNU](https://img.shields.io/badge/License-GNU-yellowgreen.svg)](https://opensource.org/license/gpl-3-0/)
 ## Description
-great project
+this project will generate portfolios
+
 ## Table of Contents
 toc
-## Installation Process
-install
-## Usage
-use
-## License: MIT
-## Contributions
-kslad
-## How to test
-sla
-## Questions
-fes
-    
 
+## Installation
+just do it
+
+## Usage
+make good portfolio
+
+## License
+This application is covered under the GNU license.
+
+## Contributing
+please
+
+## Tests
+yes
+
+## Questions
+no
+    
   

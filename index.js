@@ -46,8 +46,15 @@ inquirer
         {
             name: "userQuestions",
             message: "What should the user do if they have questions? "
+        },
+        {
+            name: "username",
+            message: "What is your GitHub username? "
+        },
+        {
+            name: "email",
+            message: "What is your email? "
         }
-        //username and email?
     ])
     .then(data => {
         const markdownContent = generateMarkdown(data);
