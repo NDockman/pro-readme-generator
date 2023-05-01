@@ -1,32 +1,32 @@
-# README File Generator
-[![License: Apache](https://img.shields.io/badge/License-Apache-red.svg)](https://opensource.org/license/apache-2-0/)
+# README file generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This program generates high-quality, professional README.md files for any project. Answer the questions and the README file will generate upon completion.
+This program generates high quality readme files.
 
 ## Table of Contents
-This is the Table of Contents
+This is the table of contents
 
 ## Installation
-To install this program, follow these steps...
+To install the program...
 
 ## Usage
-This application is used to generate README.md files.
+to use the program...
 
 ## License
-This application is covered under the Apache license. 
+This application is covered under the MIT license. 
 
-[Apache License Link](https://opensource.org/license/apache-2-0/)
+[MIT License Link](https://opensource.org/licenses/MIT)
 
 ## Contributing
-Contributions can be directed to the GitHub page.
+Contributions can be made
 
 ## Tests
-Testing this program can be done by entering the node index.js command.
+Testing this program can be done by entering the node index.js command
 
 ## Questions
 Link to my GitHub profile: [NDockman](https://github.com/NDockman) 
 
 Additional questions can be submitted to: noah@mail.com 
 
-Questions can asked through GitHub or by email.
+Questions can be asked through github or by email.
     

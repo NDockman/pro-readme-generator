@@ -5,6 +5,6 @@ This application generates a customized README.md file based on user input. The 
 
 ## Link to walkthrough video
 
-
+https://drive.google.com/file/d/197G6YxiWPxm7q80mbeqNvjxGw0SYuGsQ/view
 
 ![Here is an example of a README file created by this program](./images/pro-readme-generator-screenshot.png)
