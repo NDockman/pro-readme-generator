@@ -47,7 +47,7 @@ ${data.installation}
 ${data.usage}
 
 ## License
-This application is covered under the ${data.license} license.
+This application is covered under the ${data.license} license. \n
 ${renderLicenseLink(data.license)}
 
 ## Contributing
@@ -57,11 +57,11 @@ ${data.contribution}
 ${data.test}
 
 ## Questions
-Link to my GitHub profile: [${data.username}](https://github.com/NDockman)
-Additional questions can be submitted to: ${data.email}
+Link to my GitHub profile: [${data.username}](https://github.com/NDockman) \n
+Additional questions can be submitted to: ${data.email} \n
 ${data.userQuestions}
     
-  `;
+`;
 }
 
 module.exports = generateMarkdown;

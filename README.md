@@ -1,30 +1,10 @@
-# jdklsa
-[![License: Apache](https://img.shields.io/badge/License-Apache-red.svg)](https://opensource.org/license/apache-2-0/)
+# pro-readme-generator
+
 ## Description
-dsklaf
+This application generates a customized README.md file based on user input. The readme generator allows a user to input whatever they want for each section of the readme. The different sections are description, Table of Contents, installation, usage, license, contributing, tests, and questions. A license badge appears near the top of the readme, and a license link directs to documentation for the chosen license. The objective of this program is to create a high-quality README.md file for any project.
 
-## Table of Contents
-djskla
+## Link to walkthrough video
 
-## Installation
-fjdksla
 
-## Usage
-jfkds
 
-## License
-This application is covered under the Apache license.
-[Apache License Link](https://opensource.org/license/apache-2-0/)
-
-## Contributing
-klds
-
-## Tests
-jkl
-
-## Questions
-Link to my GitHub profile: [](https://github.com/NDockman)
-Additional questions can be submitted to: fldks
-ksla
-    
-  
+![Here is an example of a README file created by this program](./images/pro-readme-generator-screenshot.png)

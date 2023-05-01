@@ -59,14 +59,12 @@ inquirer
     .then(data => {
         const markdownContent = generateMarkdown(data);
 
-        writeToFile("README.md", markdownContent);
+        writeToFile("generatedREADME.md", markdownContent);
     });
-
-var questionsIndex = 0;
 
 //writes README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) =>
-        err ? console.log(err) : console.log('Successfully created README.md file')
+        err ? console.log(err) : console.log('Successfully created generatedREADME.md file')
     );
 }
